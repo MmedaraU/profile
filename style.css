@@ -239,14 +239,14 @@ header p {
   =======================================
 */
 section {
-  background: #000;
+  background-color: #000;
   background-image: url("assets/images/bg.jpg");
 	
   background-size: cover;
   max-width: 100%;
   border: 1px solid #000;
   height: 2500px;
-  object-fit: contain;
+  overflow: hidden;
 }
 .div1 {
   color: #fff;
