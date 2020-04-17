@@ -240,7 +240,7 @@ header p {
 */
 section {
   background-color: #000;
-  background-image: url("assets/images/bg.jpg");
+  background-image:;
 	
   background-size: cover;
   max-width: 100%;
